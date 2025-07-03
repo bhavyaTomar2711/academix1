@@ -1,9 +1,0 @@
-
-html, body {
-    overflow: hidden; /* ✅ Prevents full-page scrolling */
-  }
-  body {
-    background-color: #f9f9f9; /* Light gray background */
-    margin: 0;
-    padding: 0;
-  }
